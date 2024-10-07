@@ -62,9 +62,9 @@ body{
     overflow-x: hidden;
     overflow-y: auto;
 }
+#width{  min-width: 1320px;}
 /* top광고_s */
 #top{
-    min-width: 1320px;
     width: 100%;
     height: 30px;
     overflow: hidden;
@@ -96,8 +96,7 @@ body{
 /* top광고_e */
 /* header시작 */
 #nav{
-    min-width: 1320px;
-	background-color: #a87367;
+    background-color: #a87367;
     width: 100%;
     position: absolute;
     top: 0;
@@ -378,7 +377,6 @@ div#nav.on .overlay{
 /* overlay_e *
 /* main_banner_s */
 #main_banner{
-    min-width: 1320px;
     position: relative;
 }
 .main_banner_text{
@@ -481,7 +479,6 @@ div#nav.on .overlay{
 /* section1_e */
 /* flowing_text_s */
 #flowing_text{
-    min-width: 1320px;
     width: 100%;
     height: 128px;
     color: #ffffff;
@@ -515,7 +512,6 @@ div#nav.on .overlay{
 /* flowing_text_e */
 /* section2_s */
 #section2{
-    min-width: 1320px;
     margin: 0 auto;
     width: 1320px;
     padding: 220px 0 100px 0;
@@ -563,7 +559,6 @@ div#nav.on .overlay{
 /* section2_e */
 /* section3_s */
 #section3{
-    min-width: 1320px;
     margin: 0 auto;
     width: 1320px;
     padding: 180px 0 180px 0;
@@ -620,7 +615,6 @@ div#nav.on .overlay{
 /* section3_e */
 /* section4_s */
 #section4{
-    min-width: 1320px;
     margin: 95px auto;
     width: 100%;
     height: 970px;
@@ -630,7 +624,6 @@ div#nav.on .overlay{
 /* section4_e */
 /* section5_s */
 #section5{
-    min-width: 1320px;
     margin: 0 auto;
     width: 1320px;
     padding: 150px 0;
@@ -689,7 +682,6 @@ div#nav.on .overlay{
 /* section5_e */
 /* footer_s */
 #footer_wrap{
-    min-width: 1320px;
     width: 100%;
     background-color: #dbab97;
 }
