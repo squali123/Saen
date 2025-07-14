@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Edensor FREE';
+    src: url('EdensorFREE.eot');
+    src: url('EdensorFREE.eot?#iefix') format('embedded-opentype'),
+        url('EdensorFREE.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
