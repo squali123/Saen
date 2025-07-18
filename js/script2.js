@@ -60,7 +60,7 @@ $( document ).ready( function() {
 
 // count_down
 document.addEventListener('DOMContentLoaded', ()=>{
-    let timer_ = 1735649999
+    let timer_ = 1756618662
     // 날짜 epoch -> epoch converter
     let flipdown = new FlipDown(timer_)
     .start()
